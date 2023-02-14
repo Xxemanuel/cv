@@ -1,0 +1,44 @@
+body li {
+    list-style: none;
+}
+
+body {background-color:#8b84c6 ;
+margin: 0;}
+#titulo {font-size-adjust: 40px;
+margin-top:0;
+text-align: center;}
+
+.header{background-color: white;
+padding: 40px;}
+
+
+.header img {display: block;
+margin: auto;
+margin: bottom 20px;;}
+
+.subtitulo {border-bottom: 1px solid white;
+color: white;}
+
+.experiencia-laboral-lista{
+    margin: 0;
+    padding: 0;
+
+
+}
+.experiencia-laboral-lista{
+    list-style: none;
+}
+
+.card{
+padding: 20px;
+float: inline-start;
+
+}
+.car{
+    padding: 20px;
+    float: inline-start;
+    text-align: center;
+}
+.experiencia-laboral-lista {list-style-type: none;}
+
+
